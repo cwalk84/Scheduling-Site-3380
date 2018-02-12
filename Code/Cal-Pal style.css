@@ -1,0 +1,71 @@
+<style>
+html {
+    
+}
+
+header{
+    
+}
+
+.topbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: darkslateblue;
+}
+
+li {
+    float: left;
+}
+
+li a.top {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+body {
+
+}
+
+h1, h2{
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a {
+    display: block;
+    color: black;
+    width: 120px;
+    text-decoration: none;
+    
+}
+
+li a:hover {
+    background-color: gray;
+    color: white;
+}
+
+/* Create two equal columns that floats on the sides */
+.column1{
+    float: left;
+    width: 15%;
+}
+
+/* Create a column that floats in the middle */
+.column2{
+    float: left;
+    width: 70%;
+}
+.cal{
+    text-align: center;
+}
+</style>
